@@ -22,6 +22,12 @@ redis-commander
 
 ![Alt text](/screenshots/RedisCommanderGUI.png?raw=true "Redis Commander GUI")
 
+## Starting the application
+
+![Alt text](/screenshots/StartApplication.png?raw=true "Start Application")
+
+![Alt text](/screenshots/ApplicationStarted.png?raw=true "Application Started")
+
 APIs
 ===========
 
@@ -95,4 +101,3 @@ Delete product
 * `DELETE /product/<product_id>` will delete the specified product.
 
 Will return 'Product deleted'
-Will return a `204 No Content` response if the product was deleted successfully.

@@ -8,6 +8,9 @@ import org.springframework.data.redis.core.RedisHash;
 
 import java.io.Serializable;
 
+/**
+ * Entity class for Product which will be stored in Redis
+ */
 @Data
 @AllArgsConstructor
 @NoArgsConstructor

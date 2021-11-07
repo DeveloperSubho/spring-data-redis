@@ -9,6 +9,10 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
+/**
+ * This is the main class to start the application for Redis connection
+ * @author Subhajit Sarkar
+ */
 @SpringBootApplication
 @RestController
 @RequestMapping("/product")
